@@ -1,6 +1,30 @@
-# Knowledge Base
-This is the code for project 1 of CISC320 -- Computer Algorithms.
-More information, including the links the the Cloud 9 repository we used to collaborate, can be found in this [paper](https://drive.google.com/file/d/0B21tgVksEvzLdTc2UWN6emNJSlE/view?usp=sharing)
+     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
+    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
+    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
+    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
+     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
+    ----------------------------------------------------------------- 
 
 
-"The primary objective of our work is to organize a classification of entities into a graph which can then be read, searched, and manipulated as a knowledge base. The classification of entities, given as a text file, is composed mainly of living beings. An adjacency list was chosen as the most appropriate data structure to organize this information due to its multiple benefits. Organizing the data into this type of structure allows for fast and accurate searches and queries. For this specific problem, the goal is to be able to answer three different query objectives. First, to cite the number of subtypes of given order of an entity. Second, to determine the subspecies (all descendents) of a given species. Third, to determine the lowest common ancestor between two species starting at a given species. Answering these questions will allow us to test the data structure and implementation of it in an adjacency list. More generally, our methodology and data structure can be applied to similar data such as a thesaurus, evolutionary ancestry, or anything else that would have subcategories of information that could be organized into a tree..."
+Hi there! Welcome to Cloud9 IDE!
+
+To get you started with C/C++, we have created some small hello world
+applications and a Makefile.
+
+Have a look at the files, and use the terminal to build them:
+
+    $ make
+    $ ./hello-c-world
+    $ ./hello-cpp-world
+
+We're sure you can take it from there. Go ahead and edit the code, 
+or add some new files. It's all up to you! 
+
+Happy coding!
+The Cloud9 IDE team
+
+
+## Support & Documentation
+
+Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
+To watch some training videos, visit http://www.youtube.com/user/c9ide
